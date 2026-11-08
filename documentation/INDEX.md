@@ -1,7 +1,10 @@
 # Documentation de l'infrastructure
 
-Équipe : Irna Nandy
+Équipe : NeuroLink, rédigé par Irna
 
-| Thème  | Document                             |
-|--------|--------------------------------------|
-| Réseau | [Schéma des zones](reseau/schema.md) |
+|Thème|Document|
+|-|-|
+|Réseau|[Schéma des zones](reseau/schema.md)|
+
+
+
